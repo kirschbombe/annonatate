@@ -1,0 +1,5 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/nubian-message-2002-04-18_0001"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "akdjfo", "purpose": "bookmarking", "created": "2021-02-17T20:40:35.398Z", "creator": {"id": "kirschbombe", "name": "Dawn Childress"}, "modified": "2021-02-17T20:40:52.912Z"}], "target": {"source": "https://d.lib.ncsu.edu/collections/canvas/nubian-message-2002-04-18_0001", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:2507.5908203125,457.6531982421875,1497.99169921875,595.416259765625"}, "dcterms:isPartOf": {"id": "https://d.lib.ncsu.edu/collections/catalog/nubian-message-2002-04-18/manifest.json", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/95818598-38a0-4ac8-87ed-db8d59c07a75.json"}
